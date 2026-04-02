@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* <font color=Blue>Washington State University, Research Assistant ------ Aug 2019 – Now</font> 
+* <font color=Blue>Sichuan University, Faculty/Researcher ------ 2026 – Now</font> 
+  * Research on cross-language software engineering and security.
+
+* <font color=Blue>Washington State University, Research Assistant ------ Aug 2019 – 2026</font> 
   * Research on program analysis for security applications to multilingual software
 
 * <font color=Blue>HUAWEI Research Institute, Module design engineer (MDE) ------ Jan 2015 – Nov 2017</font> 
