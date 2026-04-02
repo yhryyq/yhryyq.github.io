@@ -9,30 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景
+Education
 ======
-* 2021.08 – 现在：华盛顿州立大学，博士研究生，计算机科学
-* 2019.01 – 2021.05：华盛顿州立大学，硕士研究生，计算机科学
-* 2011.09 – 2015.07：四川师范大学，本科，软件工程
+* 2021.08 – Present: Washington State University, Ph.D. Student, Computer Science
+* 2019.01 – 2021.05: Washington State University, M.S. Student, Computer Science
+* 2011.09 – 2015.07: Sichuan Normal University, B.Eng., Software Engineering
 
-论文评审
+Paper Reviewing
 ======
 * ISSTA'25, FSE'25, NDSS'25, ISSTA'24, CCS'24, FSE'24, NDSS'24
 
-工作经历
+Work Experience
 ======
-* 2016.02 – 2017.12：澳新银行全球服务运营(成都)有限公司
-  * 职位：开发工程师
-* 2015.07 – 2016.01：澳新银行全球服务运营(成都)有限公司
-  * 职位：软件工程实习生
+* 2016.02 – 2017.12: ANZ Global Service Operations (Chengdu) Co., Ltd.
+  * Position: Software Engineer
+* 2015.07 – 2016.01: ANZ Global Service Operations (Chengdu) Co., Ltd.
+  * Position: Software Engineering Intern
 
-教学
+Teaching
 ======
-* 2021 春季：软件设计及架构 (CPTS 487)，助教
-* 2021 秋季：自动机理论导论 (CPTS 317)，助教
-* 2022 春季：软件工程原理 I (CPTS 322)，助教
+* Spring 2021: Software Design and Architecture (CPTS 487), Teaching Assistant
+* Fall 2021: Introduction to Automata Theory (CPTS 317), Teaching Assistant
+* Spring 2022: Principles of Software Engineering I (CPTS 322), Teaching Assistant
 
-获奖情况
+Awards
 ======
-* 博士：国家优秀自费留学生奖学金，A 类优秀奖
-* 高中：全国青少年信息学奥林匹克联赛 (NOIP)，二等奖、三等奖
+* Ph.D. period: Chinese Government Award for Outstanding Self-Financed Students Abroad, Class A Excellent Award
+* High school: National Olympiad in Informatics in Provinces (NOIP), Second Prize and Third Prize
