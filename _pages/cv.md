@@ -34,5 +34,5 @@ Teaching
 
 Awards
 ======
-* Ph.D. period: Chinese Government Award for Outstanding Self-Financed Students Abroad, Class A Excellent Award
+* Ph.D. period: Award for Outstanding Self-Financed Students Abroad, Class A Excellent Award
 * High school: National Olympiad in Informatics in Provinces (NOIP), Second Prize and Third Prize
