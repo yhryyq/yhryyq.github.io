@@ -9,62 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D. in Washington State University, Pullman, USA, 2023 (expected)
-* B.S. in Huazhong University of Science and Technology, Wuhan, China, 2007
+* 2021.08 – 现在：华盛顿州立大学，博士研究生，计算机科学
+* 2019.01 – 2021.05：华盛顿州立大学，硕士研究生，计算机科学
+* 2011.09 – 2015.07：四川师范大学，本科，软件工程
 
-Work experience
+论文评审
 ======
-* <font color=Blue>Sichuan University, Faculty/Researcher ------ 2026 – Now</font> 
-  * Research on cross-language software engineering and security.
+* ISSTA'25, FSE'25, NDSS'25, ISSTA'24, CCS'24, FSE'24, NDSS'24
 
-* <font color=Blue>Washington State University, Research Assistant ------ Aug 2019 – 2026</font> 
-  * Research on program analysis for security applications to multilingual software
-
-* <font color=Blue>HUAWEI Research Institute, Module design engineer (MDE) ------ Jan 2015 – Nov 2017</font> 
-  * Responsible for technical design for system support team.
-  * Design and develop the project of ONT device virtualization/IOT device management plug-in (smart home).
-  * Served as an internal Open-Source Committer at HUAWEI.
-
-* <font color=Blue>ZTE Research Institute, System engineer ------ Jun 2010 – Dec 2014</font> 
-  * Responsible for technical design for DPI team.
-  * Design and lead the development of high-performance regular compilation and matching engine, network flow classification system and security components (e.g., Spam/DDoS detecting & blocking.)
-
-* <font color=Blue>NEUSOFT, Software engineer ------ Jun 2007 – Apr 210</font> 
-  * Design and lead the development of compiler of gis map for vehicle navigation.
-  * Participate and pass the certifications of CMMI level 3 and BMW SPICE level 2 as a team leader (10 people).
-
-Services
+工作经历
 ======
-* Reviewer –  European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 
-* Reviewer –  Network and Distributed System Security (NDSS)
-* Reviewer –  Transactions on Dependable and Secure Computing (TDSC)
-     
-Awards
+* 2016.02 – 2017.12：澳新银行全球服务运营(成都)有限公司
+  * 职位：开发工程师
+* 2015.07 – 2016.01：澳新银行全球服务运营(成都)有限公司
+  * 职位：软件工程实习生
+
+教学
 ======
-* Outstanding Research Assistant, 2023, EECS/WSU
-* Ranked top 30 developers, 2017, HUAWEI Research Institute
-* Excellent New Employee, 2015, HUAWEI Research Institute
-* Excellent Employee, 2013, ZTE Research Institute
-* Excellent Employee, 2008, NEUSOFT
+* 2021 春季：软件设计及架构 (CPTS 487)，助教
+* 2021 秋季：自动机理论导论 (CPTS 317)，助教
+* 2022 春季：软件工程原理 I (CPTS 322)，助教
 
-Skills
+获奖情况
 ======
-* Programming Languages and Experiences
-  * C: Professional. Rich experience in design and development of large commercial embedded and application software (Over 200 KLoC). 
-  * C++: Skillful. Rich experience in development of large applications (Over 100 KLoC).
-  * Python: Master. Understand the principle of Python interpreter, and skilled in using Python to develop applications (Over 10 KLoC).
-  * Java: Master. Understand the principle of JVM, and skilled in using Java to develop applications (Over 10 KLoC).
-
-* Technologies and Development Environments
-  * Pattern Matching / Linux(kernel) / JVM-CPython / Network Protocol Analysis / Memory Database / Network Flow Classification / LLVM-SOOT
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* 博士：国家优秀自费留学生奖学金，A 类优秀奖
+* 高中：全国青少年信息学奥林匹克联赛 (NOIP)，二等奖、三等奖
