@@ -11,57 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Washington State University, Pullman, USA, 2023 (expected)
-* B.S. in Huazhong University of Science and Technology, Wuhan, China, 2007
+* 2021.08 – Present: Washington State University, Ph.D. Student, Computer Science
+* 2019.01 – 2021.05: Washington State University, M.S. Student, Computer Science
+* 2011.09 – 2015.07: Sichuan Normal University, B.Eng., Software Engineering
 
-Work experience
+Paper Reviewing
 ======
-* <font color=Blue>Washington State University, Research Assistant ------ Aug 2019 – Now</font> 
-  * Research on program analysis for security applications to multilingual software
+* ISSTA'25, FSE'25, NDSS'25, ISSTA'24, CCS'24, FSE'24, NDSS'24
 
-* <font color=Blue>HUAWEI Research Institute, Module design engineer (MDE) ------ Jan 2015 – Nov 2017</font> 
-  * Responsible for technical design for system support team.
-  * Design and develop the project of ONT device virtualization/IOT device management plug-in (smart home).
-  * Served as an internal Open-Source Committer at HUAWEI.
-
-* <font color=Blue>ZTE Research Institute, System engineer ------ Jun 2010 – Dec 2014</font> 
-  * Responsible for technical design for DPI team.
-  * Design and lead the development of high-performance regular compilation and matching engine, network flow classification system and security components (e.g., Spam/DDoS detecting & blocking.)
-
-* <font color=Blue>NEUSOFT, Software engineer ------ Jun 2007 – Apr 210</font> 
-  * Design and lead the development of compiler of gis map for vehicle navigation.
-  * Participate and pass the certifications of CMMI level 3 and BMW SPICE level 2 as a team leader (10 people).
-
-Services
+Work Experience
 ======
-* Reviewer –  European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 
-* Reviewer –  Network and Distributed System Security (NDSS)
-* Reviewer –  Transactions on Dependable and Secure Computing (TDSC)
-     
+* 2016.02 – 2017.12: ANZ Global Service Operations (Chengdu) Co., Ltd.
+  * Position: Software Engineer
+* 2015.07 – 2016.01: ANZ Global Service Operations (Chengdu) Co., Ltd.
+  * Position: Software Engineering Intern
+
+Teaching
+======
+* Spring 2021: Software Design and Architecture (CPTS 487), Teaching Assistant
+* Fall 2021: Introduction to Automata Theory (CPTS 317), Teaching Assistant
+* Spring 2022: Principles of Software Engineering I (CPTS 322), Teaching Assistant
+
 Awards
 ======
-* Outstanding Research Assistant, 2023, EECS/WSU
-* Ranked top 30 developers, 2017, HUAWEI Research Institute
-* Excellent New Employee, 2015, HUAWEI Research Institute
-* Excellent Employee, 2013, ZTE Research Institute
-* Excellent Employee, 2008, NEUSOFT
-
-Skills
-======
-* Programming Languages and Experiences
-  * C: Professional. Rich experience in design and development of large commercial embedded and application software (Over 200 KLoC). 
-  * C++: Skillful. Rich experience in development of large applications (Over 100 KLoC).
-  * Python: Master. Understand the principle of Python interpreter, and skilled in using Python to develop applications (Over 10 KLoC).
-  * Java: Master. Understand the principle of JVM, and skilled in using Java to develop applications (Over 10 KLoC).
-
-* Technologies and Development Environments
-  * Pattern Matching / Linux(kernel) / JVM-CPython / Network Protocol Analysis / Memory Database / Network Flow Classification / LLVM-SOOT
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Ph.D. period: Award for Outstanding Self-Financed Students Abroad, Class A Excellent Award
+* High school: National Olympiad in Informatics in Provinces (NOIP), Second Prize and Third Prize
